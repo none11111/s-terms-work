@@ -6,7 +6,8 @@
 
 ## 项目简介
 
-本项目实现了基于OpenSSL的SSL/TLS服务器与客户端通信系统，包含以下功能：
+本项目实现了基于OpenSSL的SSL/TLS服务器与客户端通信系统，包含以下功能（分片虚拟机，需合成，地址：通过网盘分享的文件：
+链接: https://pan.baidu.com/s/1bOtbPdcaGJ2Ky26hNU6woQ?pwd=qzwy 提取码: qzwy 复制这段内容后打开百度网盘手机App，操作更方便哦）：
 
 - **TCP基础通信**：纯TCP连接的客户端和服务器
 - **单向SSL认证**：服务器端SSL认证，客户端验证服务器证书
